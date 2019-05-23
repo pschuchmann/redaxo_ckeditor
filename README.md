@@ -13,7 +13,6 @@ $mform->addTextAreaField("$id.0.textarea_content", array(
   'label'                 => 'Text',
   'class'                 => 'ckeditor',
   'data-ckeditor-profile' => 'lite',
-
   ));
 ```
 
