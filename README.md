@@ -1,10 +1,8 @@
 # redaxo_ckeditor
-====
 
 *Angepasster Init des CKEditors 4 für Redaxo 5. Kompatibilität für MBlock hergestellt. Basierend auf dem Addon CKEditor von RexDude.*
 
-Anleitung
-====
+## Anleitung
 
 Um den CKEditor 4 mit MForm und MBlock zu verwenden, reicht es die Datei *redaxo.js* aus dem assets Ordner zu übernehmen. Diese muss auf der eigenen Webseite in den assets/addons/ckeditor Ordner kopiert und die bereits vorhandene Datei überschrieben werden.
 
