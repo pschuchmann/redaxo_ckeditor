@@ -14,11 +14,10 @@ $mform->addTextAreaField("$id.0.textarea_content", array(
   'class'                 => 'ckeditor',
   'data-ckeditor-profile' => 'lite',
 
-  ));```
+  ));
+```
 
 Es kann jedes beliebige Profil aus dem Backend verwendet werden.
-
-Im Repository ist die letzte veröffentlichte Version *4.11.3.1* vom *19. März 2019* von RexDude inklusive der bereits angepassten *redaxo.js* Datei.
 
 Im Repository ist die letzte veröffentlichte Version *4.11.3.1* vom *19. März 2019* von RexDude inklusive der bereits angepassten *redaxo.js* Datei.
 
