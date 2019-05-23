@@ -8,7 +8,7 @@ Um den CKEditor 4 mit MForm und MBlock zu verwenden, reicht es die Datei *redaxo
 
 Der Aufruf in MForm/MBlock passiert nun beispielhaft wie folgt:
 
-```
+```php
 $mform->addTextAreaField("$id.0.textarea_content", array(
   'label'                 => 'Text',
   'class'                 => 'ckeditor',
