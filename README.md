@@ -1,6 +1,6 @@
 # redaxo_ckeditor
 
-*Angepasster Init des CKEditors 4 für Redaxo 5. Kompatibilität für MBlock hergestellt. Basierend auf dem Addon CKEditor von RexDude.*
+*Angepasster Init des CKEditors 4 für [Redaxo 5](https://redaxo.org/). Kompatibilität für MBlock hergestellt. Basierend auf dem Addon CKEditor von RexDude.*
 
 ## Anleitung
 
@@ -20,4 +20,5 @@ Es kann jedes beliebige Profil aus dem Backend verwendet werden.
 
 Im Repository ist die letzte veröffentlichte Version *4.11.3.1* vom *19. März 2019* von RexDude inklusive der bereits angepassten *redaxo.js* Datei.
 
+[CKEditor auf redaxo.org](https://redaxo.org/download/addons/ckeditor/)
 
